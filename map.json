@@ -479,7 +479,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"school.png"
+         "value":"map.png"
         }, 
         {
          "name":"mapLink",
